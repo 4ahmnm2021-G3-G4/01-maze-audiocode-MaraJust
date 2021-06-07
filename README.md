@@ -4,8 +4,12 @@
 This project serves as sample project for spatial audio. 
 Explore sound in its basics in virtual reality (VR).
 
+Überwachsenes stilistisches Labyrinth (mit Efeu) mit blühenden Bäumen und Blumenin der Sonnenuntergangsstimmung (Golden-Hour).
+Ziel des Spieles: Die verstreuten Gegenstände für ein Picknick aufzusammeln undeinen Blumenstrauß zu pflücken?
+Liegen alle Gegenstände auf der Picknickdecke, erscheint ein goldener Schlüssel ineiner Maueröffnung, den der Spieler mithilfe von einer Gartenschere frei schneidenmuss. Anschließend kann er mit dem Schlüssel die Türe öffnen und aus demLabyrinth entkommen.
+
 ### Development platform: 
-OS: Windows 10, Game Engine: Unity 2019.1.14f1, Visual Studio 2019, Steam,  
+OS: macOS Big Sur, Game Engine: Unity 2019.1.14f1, Visual Studio for Mac 8.9.7, Steam,  
 SteamVR 2.5.0 (https://github.com/ValveSoftware/steamvr_unity_plugin/releases/tag/2.5.0)
 
 Note on Unity Version 2019.1.14f1 and SteamVR: The SteamVr plugin has many issues when used with Unity Versions > 2019.1.3 because the XR Management System changed from 2019.1.3 to 2019.1.4. Valve is working on it, so we will use these older versions for the VR programming.  
@@ -39,4 +43,4 @@ Screenshots (concept and experience), Video
 
 ### Lessons Learned: 
 
-Copyright by smeerws :)
+Copyright by MaraJust
