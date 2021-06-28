@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class end : MonoBehaviour
+public class EndGame : MonoBehaviour
 {
-    void OnTriggerEnter()
+    private void OnTriggerEnter(Collider other)
     {
         Application.Quit();
     }
