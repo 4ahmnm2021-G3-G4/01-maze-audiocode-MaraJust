@@ -36,16 +36,24 @@ Oculus Rift/S, Vive;
 Tested on Oculus Rift S
 
 ### Visuals: 
-Screenshots (concept and experience), Video
+<img width="1469" alt="Screenshot 2021-06-28 at 23 22 11" src="https://user-images.githubusercontent.com/56028713/123706201-4160e680-d868-11eb-8915-9db4d2286d9f.png">
+
+<img width="1469" alt="Screenshot 2021-06-28 at 23 22 32" src="https://user-images.githubusercontent.com/56028713/123706225-4a51b800-d868-11eb-8c27-08bd7d1cddcd.png">
+
+<img width="1469" alt="Screenshot 2021-06-28 at 23 23 03" src="https://user-images.githubusercontent.com/56028713/123706240-50479900-d868-11eb-8474-3bfe1703e054.png">
+
+Screencapturevideo:
 
 ### Third party material: 
 #### Sounds:
-Gartenschere: https://freesound.org/people/Roulaine/sounds/267975/
+Von FREESOUND https://freesound.org/ und der BBC SOUND LIBRARY: https://sound-effects.bbcrewind.co.uk
 
+#### Assets
+Von CGTrader: https://www.cgtrader.com
 
 ### Project state: 
-85%/100% finished
-<progress max="100" value="85"></progress>
+95%/100% finished
+<progress max="100" value="95"></progress>
 
 ### Limitations: 
 
