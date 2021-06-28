@@ -4,9 +4,16 @@
 This project serves as sample project for spatial audio. 
 Explore sound in its basics in virtual reality (VR).
 
-Überwachsenes stilistisches Labyrinth (mit Efeu) mit blühenden Bäumen und Blumenin der Sonnenuntergangsstimmung (Golden-Hour).
-Ziel des Spieles: Die verstreuten Gegenstände für ein Picknick aufzusammeln undeinen Blumenstrauß zu pflücken?
-Liegen alle Gegenstände auf der Picknickdecke, erscheint ein goldener Schlüssel ineiner Maueröffnung, den der Spieler mithilfe von einer Gartenschere frei schneidenmuss. Anschließend kann er mit dem Schlüssel die Türe öffnen und aus demLabyrinth entkommen.
+Überwachsenes stilistisches Labyrinth (mit Efeu) mit blühenden Bäumen und Blumen
+in der Sonnenuntergangsstimmung (Golden-Hour).
+
+Ziel des Spieles: Die verstreuten Gegenstände für ein Picknick aufzusammeln und
+einen Blumenstrauß zu pflücken?
+
+Liegen alle Gegenstände auf der Picknickdecke, erscheint ein goldener Schlüssel in
+einer Maueröffnung, den der Spieler mithilfe von einer Gartenschere frei schneiden
+muss. Anschließend kann er mit dem Schlüssel die Türe öffnen und aus dem
+Labyrinth entkommen.
 
 ### Development platform: 
 OS: macOS Big Sur, Game Engine: Unity 2019.1.14f1, Visual Studio for Mac 8.9.7, Steam,  
@@ -36,8 +43,8 @@ Screenshots (concept and experience), Video
 (if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
 
 ### Project state: 
-2%/100% finished
-<progress max="100" value="2"></progress>
+65%/100% finished
+<progress max="100" value="65"></progress>
 
 ### Limitations: 
 

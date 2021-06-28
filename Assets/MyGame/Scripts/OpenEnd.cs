@@ -14,7 +14,7 @@ public class OpenEnd : MonoBehaviour
     {
         if (picnicItemCount == 4)
         {
-
+            openDoor();
         }
     }
 
@@ -25,5 +25,10 @@ public class OpenEnd : MonoBehaviour
             picnicItemCount += picnicItemCount;
             Debug.Log(picnicItemCount);
         }
+    }
+
+    void openDoor ()
+    {
+        
     }
 }
