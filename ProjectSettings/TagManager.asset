@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Fire
   - picknickobject
+  - gartenschere
   layers:
   - Default
   - TransparentFX
