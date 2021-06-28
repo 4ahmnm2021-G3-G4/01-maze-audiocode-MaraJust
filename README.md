@@ -4,15 +4,12 @@
 This project serves as sample project for spatial audio. 
 Explore sound in its basics in virtual reality (VR).
 
-Überwachsenes stilistisches Labyrinth (mit Efeu) mit blühenden Bäumen und Blumen
-in der Sonnenuntergangsstimmung (Golden-Hour).
+Overgrown stylised labyrinth (with ivy) with blossoming trees and flowers
+in the sunset mood (golden hour).
 
-Ziel des Spieles: Die verstreuten Gegenstände für ein Picknick aufzusammeln .
+The aim of the game: to collect the scattered items for a picnic and to cut his way through the ivy walls with a pair of garden shears.
 
-Liegen alle Gegenstände auf der Picknickdecke, erscheint ein goldener Schlüssel in
-einer Maueröffnung, den der Spieler mithilfe von einer Gartenschere frei schneiden
-muss. Anschließend kann er mit dem Schlüssel die Türe öffnen und aus dem
-Labyrinth entkommen.
+Once all the items are on the picnic blanket, a golden key appears in front of the ivy wall. After that, he can use the key to open the door and escape from the maze.
 
 ### Development platform: 
 OS: macOS Big Sur, Game Engine: Unity 2019.1.14f1, Visual Studio for Mac 8.9.7, Steam,  
@@ -36,19 +33,29 @@ Oculus Rift/S, Vive;
 Tested on Oculus Rift S
 
 ### Visuals: 
-Screenshots (concept and experience), Video
+<img width="1469" alt="Screenshot 2021-06-28 at 23 22 11" src="https://user-images.githubusercontent.com/56028713/123706201-4160e680-d868-11eb-8915-9db4d2286d9f.png">
+
+<img width="1469" alt="Screenshot 2021-06-28 at 23 22 32" src="https://user-images.githubusercontent.com/56028713/123706225-4a51b800-d868-11eb-8c27-08bd7d1cddcd.png">
+
+<img width="1469" alt="Screenshot 2021-06-28 at 23 23 03" src="https://user-images.githubusercontent.com/56028713/123706240-50479900-d868-11eb-8474-3bfe1703e054.png">
+
+Screencapturevideo:
 
 ### Third party material: 
 #### Sounds:
-Gartenschere: https://freesound.org/people/Roulaine/sounds/267975/
+From FREESOUND https://freesound.org/ and the BBC SOUND LIBRARY: https://sound-effects.bbcrewind.co.uk
 
+#### Assets:
+From CGTrader: https://www.cgtrader.com
 
 ### Project state: 
-85%/100% finished
-<progress max="100" value="85"></progress>
+95%/100% finished
+<progress max="100" value="95"></progress>
 
 ### Limitations: 
 
 ### Lessons Learned: 
+- Work faster with SteamVR
+- Work with 360-degree-audio-sources
 
 Copyright by MaraJust
