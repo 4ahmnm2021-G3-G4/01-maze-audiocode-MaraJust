@@ -4,15 +4,12 @@
 This project serves as sample project for spatial audio. 
 Explore sound in its basics in virtual reality (VR).
 
-Überwachsenes stilistisches Labyrinth (mit Efeu) mit blühenden Bäumen und Blumen
-in der Sonnenuntergangsstimmung (Golden-Hour).
+Overgrown stylised labyrinth (with ivy) with blossoming trees and flowers
+in the sunset mood (golden hour).
 
-Ziel des Spieles: Die verstreuten Gegenstände für ein Picknick aufzusammeln .
+The aim of the game: to collect the scattered items for a picnic and to cut his way through the ivy walls with a pair of garden shears.
 
-Liegen alle Gegenstände auf der Picknickdecke, erscheint ein goldener Schlüssel in
-einer Maueröffnung, den der Spieler mithilfe von einer Gartenschere frei schneiden
-muss. Anschließend kann er mit dem Schlüssel die Türe öffnen und aus dem
-Labyrinth entkommen.
+Once all the items are on the picnic blanket, a golden key appears in front of the ivy wall. After that, he can use the key to open the door and escape from the maze.
 
 ### Development platform: 
 OS: macOS Big Sur, Game Engine: Unity 2019.1.14f1, Visual Studio for Mac 8.9.7, Steam,  
@@ -46,10 +43,10 @@ Screencapturevideo:
 
 ### Third party material: 
 #### Sounds:
-Von FREESOUND https://freesound.org/ und der BBC SOUND LIBRARY: https://sound-effects.bbcrewind.co.uk
+From FREESOUND https://freesound.org/ and the BBC SOUND LIBRARY: https://sound-effects.bbcrewind.co.uk
 
-#### Assets
-Von CGTrader: https://www.cgtrader.com
+#### Assets:
+From CGTrader: https://www.cgtrader.com
 
 ### Project state: 
 95%/100% finished
@@ -58,5 +55,7 @@ Von CGTrader: https://www.cgtrader.com
 ### Limitations: 
 
 ### Lessons Learned: 
+- Work faster with SteamVR
+- Work with 360-degree-audio-sources
 
 Copyright by MaraJust
