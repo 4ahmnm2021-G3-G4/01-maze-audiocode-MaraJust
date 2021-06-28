@@ -7,8 +7,7 @@ Explore sound in its basics in virtual reality (VR).
 Überwachsenes stilistisches Labyrinth (mit Efeu) mit blühenden Bäumen und Blumen
 in der Sonnenuntergangsstimmung (Golden-Hour).
 
-Ziel des Spieles: Die verstreuten Gegenstände für ein Picknick aufzusammeln und
-einen Blumenstrauß zu pflücken?
+Ziel des Spieles: Die verstreuten Gegenstände für ein Picknick aufzusammeln .
 
 Liegen alle Gegenstände auf der Picknickdecke, erscheint ein goldener Schlüssel in
 einer Maueröffnung, den der Spieler mithilfe von einer Gartenschere frei schneiden
@@ -40,11 +39,13 @@ Tested on Oculus Rift S
 Screenshots (concept and experience), Video
 
 ### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+#### Sounds:
+Gartenschere: https://freesound.org/people/Roulaine/sounds/267975/
+
 
 ### Project state: 
-65%/100% finished
-<progress max="100" value="65"></progress>
+85%/100% finished
+<progress max="100" value="85"></progress>
 
 ### Limitations: 
 
