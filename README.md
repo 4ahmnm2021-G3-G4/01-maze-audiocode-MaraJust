@@ -39,7 +39,7 @@ Tested on Oculus Rift S
 
 <img width="1469" alt="Screenshot 2021-06-28 at 23 23 03" src="https://user-images.githubusercontent.com/56028713/123706240-50479900-d868-11eb-8474-3bfe1703e054.png">
 
-Screencapturevideo:
+Screencapturevideo: https://youtu.be/E6lU8YAwmiU
 
 ### Third party material: 
 #### Sounds:
